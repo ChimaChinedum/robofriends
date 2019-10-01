@@ -1,5 +1,5 @@
 # robofriends
-My First project on while learning software development - React
+My First project on React while learning software development 
 To run the project:
 
 1. Clone this repo
